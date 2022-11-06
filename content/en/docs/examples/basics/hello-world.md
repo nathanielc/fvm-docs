@@ -12,7 +12,8 @@ menu:
 1. Clone the [FVM Actor Examples](https://github.com/filecoin-project/fvm-actor-examples) repo:
 
     ```shell
-    git clone https://github.com/filecoin-project/fvm-actor-examples
+    git clone https://github.com/filecoin-project/fvm-example-actors
+    cd fvm-example-actors
     ```
 
 1. Move into the `hello-world` directory:
